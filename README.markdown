@@ -33,4 +33,8 @@ We randomly generate a large number of keys (variable, default to 10M), and
 insert them into our heap. We then extract the keys and verify they are ordered.
 To test this, just run `make` and then run the test program.
 
+# License
+
+MIT
+
 
